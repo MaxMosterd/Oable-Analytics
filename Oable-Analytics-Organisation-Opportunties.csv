@@ -1,0 +1,10 @@
+Organisation Name;Organisation OA Expenditure in USD;Organisation OA Interactions;Organisation Type;Organisation Product Customer;Organisation OA Publications
+Iowa State University;20,000;10,000;University;=TRUE();20
+Free University of Berlin;15,000;7,500;University;=TRUE();15
+Harvard University;40,000;5,000;University;=TRUE();40
+Univeristy of Sao Paulo;0;20,000;University;=FALSE();2
+ETH Zurich;10,000;250;University;=TRUE();1
+University of Liverpool;0;10,000;University;=FALSE();40
+University of Amsterdam;0;5,000;University;=FALSE();25
+Wellcome Trust;0;0;Funder;=FALSE();30
+Pfizer;0;0;Corporate;=FALSE();30
